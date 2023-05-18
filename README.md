@@ -7,7 +7,15 @@ Es un script automatizado para proteger nuestro servidor de ubuntu frente a posi
 <img src="https://img.shields.io/badge/OS-Ubuntu Server-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Autor-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen?style=for-the-badge&logo="> 
 </div>
 
-## CARACTERÍSTICAS 📁
+## Características de Seguridad 🔒
+ 
+ <ul>
+  <li><a>Anti Port Entry SSH</a></li>
+  <li><a>Anti Force Brute</a></li>
+  <li><a>UFW</a></li>
+  <li><a>FAIL2BAN</a></li>
+  
+ </ul>
 
 ## LICENCIA 📋 
 MIT License 

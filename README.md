@@ -10,10 +10,8 @@ Es un script automatizado para proteger nuestro servidor de ubuntu frente a posi
 ## Características de Seguridad 🔒
  
  <ul>
-  <li><a>Anti Port Entry SSH</a></li>
-  <li><a>Anti Force Brute</a></li>
+  <li><a>FAIL2BAN (Anti Force Brute & Anti Port Entry SSH)</a></li>
   <li><a>UFW</a></li>
-  <li><a>FAIL2BAN</a></li>
   
  </ul>
 

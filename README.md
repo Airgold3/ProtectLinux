@@ -1,5 +1,5 @@
 ## ProtectLinux
-Es un script automatizado para proteger nuestro servidor de ubuntu frente a posibles ataques.
+Es un script automatizado para proteger nuestro servidor de ubuntu frente a posibles ataques de fuerza bruta de ssh, cuenta con cortafuegos y bloqueo del login con root.
 
 <br>
 <div align="center">

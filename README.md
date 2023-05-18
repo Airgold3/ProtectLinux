@@ -19,7 +19,7 @@ Es un script automatizado para proteger nuestro servidor de ubuntu frente a posi
 ## LICENCIA 📋 
 MIT License 
 
-Copyright (c) 2022 Airgold3
+Copyright (c) 2023 Airgold3
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

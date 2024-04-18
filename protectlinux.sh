@@ -1,6 +1,6 @@
 #!/bin/bash
 # AUTHOR: Airgold3 & https://github.com/Airgold3
-# This file is part of Automatic Fivem Server Creator
+# This file is part of ProtectLinux
 # Copyright (C) 2024, Airgold3
 #    ProtectLinux ( is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by

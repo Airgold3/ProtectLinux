@@ -13,6 +13,7 @@ Es un script automatizado para proteger nuestro servidor de ubuntu frente a posi
   <li><a>FAIL2BAN (Anti Force Brute & Anti Port Entry SSH)</a></li>
   <li><a>UFW (Uncomplicated Firewall)</a></li>
   <li><a>No Permit Root Login</a></li>
+  <li><a>Endless (HoneyPot)</a></li>
   
  </ul>
  

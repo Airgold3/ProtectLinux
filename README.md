@@ -4,7 +4,7 @@ Es un script automatizado para proteger nuestro servidor de ubuntu frente a posi
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/OS-Ubuntu Server-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Autor-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen?style=for-the-badge&logo="> 
+<img src="https://img.shields.io/badge/OS-Ubuntu Server-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Autor-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-GPLV3-red?style=for-the-badge&logo=gnu"> 
 </div>
 
 ## Características de Seguridad 🔒

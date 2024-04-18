@@ -6,12 +6,14 @@
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
 #    (at your option) any later version.
-#    Automatic Fivem Server Creator ( is distributed in the hope that it will be useful,
+#    ProtectLinux ( is distributed in the hope that it will be useful,
 #    but WITHOUT ANY WARRANTY; without even the implied warranty of
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU General Public License for more details.
 #    You should have received a copy of the GNU General Public License
-#    along with Automatic Fivem Server Creator.  If not, see <https://www.gnu.org/licenses/>.
+#    along with ProtectLinux.  If not, see <https://www.gnu.org/licenses/>.
+
+
 
 
     # COLORS

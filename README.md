@@ -15,6 +15,23 @@ Es un script automatizado para proteger nuestro servidor de ubuntu frente a posi
   <li><a>No Permit Root Login</a></li>
   
  </ul>
+ 
+## CÓMO UTILIZAR 📚
+Primero debe conectarse a través de sftp o ftp y mover el archivo allí o hacerlo manualmente de la siguiente forma:
+<br>
+```
+# Descargas git clone
+$ sudo apt install git
+
+# Comienzas a clonar mi repositorio
+$ sudo git clone https://github.com/Airgold3/ProtectLinux/
+
+# Le das permisos de ejecución ☄️
+$ chmod +x protectlinux.sh
+
+# ¡INíCIALO! 🚀 
+$ sudo ./protectlinux.sh
+```
 
 ## LICENCIA 📋 
 MIT License 
